@@ -117,8 +117,8 @@ password = your_password
 
 ## 👨‍💻 Author
 
-**Sanjay Kumar R**  
+**Shravan Prasannakumar**  
 Bachelor of Engineering (B.E.) in Computer Science Engineering (2023 - 2027)  
-Email: rsanjaymail@gmail.com  
-LinkedIn: [linkedin.com/in/SanjayKumarR20082005/](linkedin.com/in/SanjayKumarR20082005/)  
-GitHub: [@sanjayKumarR-404](https://github.com/sanjayKumarR-404)  
+Email: shravannpk@gmail.com  
+LinkedIn: [linkedin.com/in/shravan-prasannakumar-s22](linkedin.com/in/shravan-prasannakumar-s22)  
+GitHub: [@Shravann-2011](https://github.com/Shravann-2011)  
